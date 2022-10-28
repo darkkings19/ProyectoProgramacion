@@ -1,4 +1,5 @@
 # ProyectoProgramacion
 comentarios: 
--agregar stock
--agregar menus diferentes para comprardo y vendedor respectivamente
+-agregar funcionamiento con respecto a vendedores
+-agregar ventanas
+-revisar si nos falta algo en el codigo y que no se encuentren problemas
