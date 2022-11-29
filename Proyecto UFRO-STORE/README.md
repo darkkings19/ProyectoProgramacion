@@ -1,1 +1,0 @@
-Proyecto Programación: UFRO Store
