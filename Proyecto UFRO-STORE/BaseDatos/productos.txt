@@ -1,0 +1,3 @@
+gorro lana;3500;Gorro de lana tejido a mano. 2 x 6.000;BaseDatos/ImagenesProductos/gorro lana.jpg;Moda y estilo;4txBym9OI4Lh;e.saez07@ufromail.cl
+libro de calculo;10000;libro de calculo diferencial. como nuevo;BaseDatos/ImagenesProductos/descarga.jpeg;Material Academico;JDAvIEud443E;b.sandoval07@ufromail.cl
+lapiz grafito;10000;Lapiz grafito con tintes de oro;BaseDatos/ImagenesProductos/lapizgrfito.jpg;Utiles;OB8bBtpAQ2SG;p.paredes06@ufromail.cl
